@@ -1,4 +1,4 @@
-# <p O uso de Machine Learning na classificação de textos com ênfase em Fake News </p>
+# <p> O uso de Machine Learning na classificação de textos com ênfase em Fake News </p>
 
 
 <hr>
@@ -18,6 +18,8 @@ A base de dados utilizada para treinamento e testes dos algoritmos neste estudo 
 
 O conjunto de dados contém 3 arquivos no formato .CSV denominados Train.csv para treinamento, Fake.csv e True.csv para teste. Todo o conjunto de dados de notícias contém 23 mil linhas de notícias descritas como sabidamente falsas e 21 mil linhas de notícias sabidamente verdadeiras. Os dados referem-se às categorias de notícias variadas de política, governo e mundo, demonstradas em porcentagem na Figura 1.
 
+<p align="center"><img src="figura1noticias.jpg"  width="600px" height="400px"/></p>
+
 
 <hr>
 
@@ -27,7 +29,10 @@ Ao medir a performance dos modelos com as técnicas de Acuracidade, Erro, Recall
 
 Resultados da Matriz de Confusão
 
+
 Comparação da performance para todos os três modelos.
+
+
 
 # Conclusão 
 

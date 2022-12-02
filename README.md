@@ -28,10 +28,10 @@ O conjunto de dados contém 3 arquivos no formato .CSV denominados Train.csv par
 Ao medir a performance dos modelos com as técnicas de Acuracidade, Erro, Recall, Precisão e F1-Score, vistos na Tabela 1. Identificou-se uma precisão de 0,99 em todos os modelos analisados quanto a precisão,  além do F1-Score que obteve 0,99 para Árvore de decisão e 0,98 para Random Forest e Regressão Lógica. Estes valores de precisão poderão ser entendidos como modelos de precisão alta, poucas taxas de falso positivo e falso negativo, vistos na matriz de confusão, figura 2. Destaca-se a acuracidade do modelo Árvore de decisão com 99,61%, seguido dos modelos de Random Forest 98,93%  e Regressão Lógica 98,73%. 
 
 Resultados da Matriz de Confusão
-
+<p align="center"><img src="matriz.jpg"  width="600px" height="400px"/></p>
 
 Comparação da performance para todos os três modelos.
-
+<p align="center"><img src="tabela1.jpg"  width="600px" height="400px"/></p>
 
 
 # Conclusão 
@@ -44,13 +44,10 @@ O presente trabalho buscou comparar os algoritmos de classificação Random fore
 <hr>
 
 ### AUTORES DO PROJETO
-29
+
 <ul>
-30
 <li>Paulo Henrique Apro - TIA: 41723457</li>
-31
-  <li>Marco Polo - TIA: 41703170 </li>
-32
-  
-33
+
+<li>Marco Polo - TIA: 41703170 </li>
+
 </ul>
